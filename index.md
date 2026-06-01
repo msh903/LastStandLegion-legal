@@ -4,8 +4,8 @@ Welcome to the official legal pages for **Last Stand Legion**.
 
 ## Legal Documents
 
-- [Privacy Policy](PRIVACY_POLICY.md)
-- [Terms of Service](TERMS_OF_SERVICE.md)
+- [Privacy Policy](https://msh903.github.io/LastStandLegion-legal/PRIVACY_POLICY)
+- [Terms of Service](https://msh903.github.io/LastStandLegion-legal/TERMS_OF_SERVICE)
 
 ## Notes
 

@@ -1,26 +1,27 @@
 # Terms of Service — Last Stand Legion
 
-**Last updated:** 28 May 2026  
-**Effective date:** 28 May 2026  
-**Developer:** [YOUR LEGAL NAME OR STUDIO NAME] (“**we**”, “**us**”, “**our**”)  
+**Last updated:** 1 June 2026  
+**Effective date:** 1 June 2026  
+**Developer:** msh903 (“**we**”, “**us**”, “**our**”)  
 **Contact:** Feedback via Google Play / App Store reviews  
-**Privacy Policy:** [PRIVACY_POLICY_URL]  
+**Privacy Policy:** https://msh903.github.io/LastStandLegion-legal/PRIVACY_POLICY  
+**Terms URL:** https://msh903.github.io/LastStandLegion-legal/TERMS_OF_SERVICE  
 **Country of establishment:** Malaysia  
 **Governing law:** Malaysia (see Section 15)
 
 ---
 
-> **Important:** Replace all bracketed placeholders before publishing. Have qualified legal counsel review these Terms for Google Play, Apple App Store, and your target countries. These Terms are not legal advice.
+> **Important:** These Terms apply to **Last Stand Legion** on Google Play and the Apple App Store. These Terms are not legal advice.
 
 ---
 
 ## 1. Agreement to these Terms
 
-These Terms of Service (“**Terms**”) are a binding agreement between you (“**you**”, “**player**”) and **[YOUR LEGAL NAME OR STUDIO NAME]** regarding **Last Stand Legion** (the “**Game**”) as made available on the Store at the time you download it.
+These Terms of Service (“**Terms**”) are a binding agreement between you (“**you**”, “**player**”) and **msh903** regarding **Last Stand Legion** (the “**Game**”) as made available on the Store at the time you download it.
 
 By downloading, installing, accessing, or using the Game, you confirm that you:
 
-1. Have read and understood these Terms and our [Privacy Policy](PRIVACY_POLICY_URL);  
+1. Have read and understood these Terms and our [Privacy Policy](https://msh903.github.io/LastStandLegion-legal/PRIVACY_POLICY);  
 2. Meet the eligibility requirements in Section 2; and  
 3. Agree to be bound by these Terms.
 
@@ -91,7 +92,7 @@ Except where **mandatory law** or the **Store’s own rules** require otherwise 
 
 - **All sales are final.** We do **not** offer refunds, credits, or chargebacks directly.  
 - **Do not buy** if you are unsure you want the Game; we do not provide a “try then refund” program outside whatever the Store may allow.  
-- If you contact us asking for a refund, we will direct you to the Store; we cannot override Store billing decisions.
+- Refund requests must go through the Store; we cannot override Store billing decisions.
 
 You are expected to decide whether to purchase after trying **Round 1**. If you buy the full unlock and later do not like the Game, that alone is not a basis for a direct refund from us.
 
@@ -197,7 +198,7 @@ For EU/UK consumers, you may also use the European Online Dispute Resolution pla
 
 We may modify these Terms to reflect legal, store, or product changes. We will update the **“Last updated”** date. For **material** changes we may:
 
-- Post the revised Terms at **[TERMS_OF_SERVICE_URL]**;  
+- Post the revised Terms at **https://msh903.github.io/LastStandLegion-legal/TERMS_OF_SERVICE**;  
 - Increase the in-app **terms version** so you must accept again; and/or  
 - Provide notice where required by law or store policy.
 
@@ -219,7 +220,7 @@ These Terms are governed by the laws of **Malaysia**, without regard to conflict
 
 Subject to **mandatory consumer protections** in your country of residence:
 
-- Disputes shall be brought in the **courts of Malaysia** located in **[YOUR CITY, e.g. Kuala Lumpur]**, and you consent to personal jurisdiction there; or  
+- Disputes shall be brought in the **courts of Malaysia** located in **Kuala Lumpur**, and you consent to personal jurisdiction there; or  
 - We may agree in writing to another forum.
 
 You may also have the right to bring claims in your home country under consumer law.
@@ -247,14 +248,10 @@ No direct email support channel is provided in the current release.
 
 ---
 
-## 18. Publishing checklist (developer)
+## 18. Document location
 
-1. Replace `[YOUR …]`, `[PRIVACY_POLICY_URL]`, and `[TERMS_OF_SERVICE_URL]`.  
-2. Host at public **HTTPS** URLs.  
-3. Unity: `Assets/Data/AppLinksConfig.asset` → **Terms Of Service Url** and **Privacy Policy Url**.  
-4. Link both URLs in Google Play Console and App Store Connect.  
-5. Set `TermsAcceptance.CurrentTermsVersion` to **2** (or higher) in `Assets/Scripts/Services/TermsAcceptance.cs` when shipping these Terms so existing installs re-accept.  
-6. Ensure store listing text matches: **free download, Round 1 free, one-time unlock ~$0.99, no ads, no subscription, no in-game shop**.
+Public copy: https://msh903.github.io/LastStandLegion-legal/TERMS_OF_SERVICE  
+Privacy Policy: https://msh903.github.io/LastStandLegion-legal/PRIVACY_POLICY
 
 ---
 

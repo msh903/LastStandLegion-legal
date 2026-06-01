@@ -1,17 +1,18 @@
 # Privacy Policy — Last Stand Legion
 
-**Last updated:** 28 May 2026  
-**Effective date:** 28 May 2026  
-**Developer / Data controller:** [YOUR LEGAL NAME OR STUDIO NAME] (“**we**”, “**us**”, “**our**”)  
-**Registered / business address:** [YOUR STREET ADDRESS, CITY, STATE/PROVINCE, POSTAL CODE, MALAYSIA]  
+**Last updated:** 1 June 2026  
+**Effective date:** 1 June 2026  
+**Developer / Data controller:** msh903 (“**we**”, “**us**”, “**our**”)  
+**Location:** Kuala Lumpur, Malaysia  
 **Privacy contact:** No direct email support channel  
 **Support contact:** Please use your app store review page  
+**Public policy URL:** https://msh903.github.io/LastStandLegion-legal/PRIVACY_POLICY  
 **Country of establishment:** Malaysia  
 **Audience:** Players worldwide (mobile and, if offered, desktop builds)
 
 ---
 
-> **Important:** This document is written for **Last Stand Legion** as a **premium paid game** (purchase through Google Play or the Apple App Store). Replace all bracketed placeholders before publishing. Have a qualified lawyer in your launch territories review the final text. This policy is not legal advice.
+> **Important:** This document is written for **Last Stand Legion** (free download with optional one-time unlock via Google Play or the Apple App Store). This policy is not legal advice.
 
 ---
 
@@ -228,15 +229,10 @@ We do not provide direct email support in the current release.
 
 ---
 
-## 14. Publishing checklist (developer)
+## 14. Document location
 
-1. Replace every `[YOUR …]` placeholder.  
-2. Host this file at a stable **HTTPS** URL (GitHub Pages, your website, etc.).  
-3. Set the same URL in Unity: `Assets/Data/AppLinksConfig.asset` → **Privacy Policy Url**.  
-4. Paste the URL in **Google Play Console** → App content → Privacy policy.  
-5. Paste the URL in **App Store Connect** → App Privacy / Privacy Policy URL.  
-6. Complete each store’s **Data safety** / **App Privacy** questionnaire to match **Section 3** (mostly on-device, no ads, no account).  
-7. Bump `TermsAcceptance.CurrentTermsVersion` in code when you require re-acceptance.
+Public copy: https://msh903.github.io/LastStandLegion-legal/PRIVACY_POLICY  
+Terms of Service: https://msh903.github.io/LastStandLegion-legal/TERMS_OF_SERVICE
 
 ---
 
