@@ -1,11 +1,11 @@
 # Privacy Policy — Last Stand Legion
 
-**Last updated:** 1 June 2026  
-**Effective date:** 1 June 2026  
-**Developer / Data controller:** msh903 (“**we**”, “**us**”, “**our**”)  
+**Last updated:** 2 June 2026  
+**Effective date:** 2 June 2026  
+**Developer / Data controller:** mohsen (“**we**”, “**us**”, “**our**”)  
 **Location:** Kuala Lumpur, Malaysia  
-**Privacy contact:** No direct email support channel  
-**Support contact:** Please use your app store review page  
+**Privacy contact:** msh.mygames@gmail.com  
+**Support contact:** msh.mygames@gmail.com  
 **Public policy URL:** https://msh903.github.io/LastStandLegion-legal/PRIVACY_POLICY  
 **Country of establishment:** Malaysia  
 **Audience:** Players worldwide (mobile and, if offered, desktop builds)
@@ -93,9 +93,11 @@ See:
 
 If you post a review or rating on Google Play or the App Store, that content is public and governed by the platform’s privacy policy. **Do not include personal information** (email, address, phone) in reviews.
 
-### 3.5 Store feedback only
+### 3.5 Contact and feedback
 
-We do not provide direct email support in the current release. For game feedback, please use your Google Play or App Store review page.
+You may contact us at **msh.mygames@gmail.com** for privacy questions, support, or general feedback about the Game. We aim to respond within a reasonable time where required by law.
+
+You may also leave a public review on Google Play or the App Store. **Do not include personal information** (email, address, phone) in public reviews.
 
 **Retention:** Public reviews are managed by the store platform under its own retention and privacy rules.
 
@@ -176,17 +178,17 @@ Depending on where you live, you may have rights to **access**, **correct**, **d
 
 ### 9.2 European Economic Area, United Kingdom, and Switzerland
 
-You may lodge a complaint with your local data protection authority. Because the current release does not include direct user account collection by us, we do not provide a direct privacy request email channel.
+You may contact us at **msh.mygames@gmail.com** to exercise your rights. You may also lodge a complaint with your local data protection authority.
 
 ### 9.3 United States (including California)
 
-We do not sell personal information. California residents may have additional rights under the CCPA/CPRA (know, delete, correct, opt-out of sale/sharing). For gameplay feedback, use the store review channels.
+We do not sell personal information. California residents may have additional rights under the CCPA/CPRA (know, delete, correct, opt-out of sale/sharing). For privacy requests, email **msh.mygames@gmail.com**. You may also leave feedback on Google Play or the App Store.
 
 We will verify requests where required by law.
 
 ### 9.4 Malaysia (PDPA)
 
-You may have rights under the Malaysia PDPA where applicable. In the current release, we do not maintain direct support correspondence channels.
+You may have rights under the Malaysia PDPA where applicable. Contact **msh.mygames@gmail.com** for requests.
 
 ---
 
@@ -218,14 +220,11 @@ Continued use after the effective date means you accept the updated policy, unle
 
 ---
 
-## 13. Feedback channel
+## 13. Contact and feedback
 
-For game comments and feedback, please leave a review on:
+**Email:** msh.mygames@gmail.com
 
-- Google Play (Android), or
-- Apple App Store (iOS).
-
-We do not provide direct email support in the current release.
+You may also leave a review on Google Play (Android) or the Apple App Store (iOS). Do not include personal information in public reviews.
 
 ---
 

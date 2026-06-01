@@ -10,4 +10,6 @@ Welcome to the official legal pages for **Last Stand Legion**.
 ## Notes
 
 - These pages apply to the current release of the game.
-- For gameplay feedback, please leave a review on Google Play or the App Store.
+- **Developer:** mohsen
+- **Contact:** msh.mygames@gmail.com (privacy, support, feedback)
+- You may also leave a review on Google Play or the App Store.

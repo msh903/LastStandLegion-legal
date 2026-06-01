@@ -1,9 +1,9 @@
 # Terms of Service — Last Stand Legion
 
-**Last updated:** 1 June 2026  
-**Effective date:** 1 June 2026  
-**Developer:** msh903 (“**we**”, “**us**”, “**our**”)  
-**Contact:** Feedback via Google Play / App Store reviews  
+**Last updated:** 2 June 2026  
+**Effective date:** 2 June 2026  
+**Developer:** mohsen (“**we**”, “**us**”, “**our**”)  
+**Contact:** msh.mygames@gmail.com  
 **Privacy Policy:** https://msh903.github.io/LastStandLegion-legal/PRIVACY_POLICY  
 **Terms URL:** https://msh903.github.io/LastStandLegion-legal/TERMS_OF_SERVICE  
 **Country of establishment:** Malaysia  
@@ -17,7 +17,7 @@
 
 ## 1. Agreement to these Terms
 
-These Terms of Service (“**Terms**”) are a binding agreement between you (“**you**”, “**player**”) and **msh903** regarding **Last Stand Legion** (the “**Game**”) as made available on the Store at the time you download it.
+These Terms of Service (“**Terms**”) are a binding agreement between you (“**you**”, “**player**”) and **mohsen** regarding **Last Stand Legion** (the “**Game**”) as made available on the Store at the time you download it.
 
 By downloading, installing, accessing, or using the Game, you confirm that you:
 
@@ -137,7 +137,7 @@ We may filter or reset offensive names where the Game provides that capability.
 
 ### 7.2 No in-game feedback form
 
-The Game does **not** include a built-in feedback or support ticket system. For bugs or suggestions, leave a **public store review** on Google Play or the App Store.
+The Game does **not** include a built-in feedback form. For bugs or suggestions, email **msh.mygames@gmail.com** or leave a **public store review** on Google Play or the App Store.
 
 ### 7.3 Store reviews
 
@@ -242,9 +242,7 @@ You may also have the right to bring claims in your home country under consumer 
 
 ## 17. Feedback
 
-For gameplay comments and suggestions, please leave a public review on Google Play or the App Store.
-
-No direct email support channel is provided in the current release.
+Contact **msh.mygames@gmail.com** for questions, bugs, or suggestions. You may also leave a public review on Google Play or the App Store.
 
 ---
 
